@@ -6,3 +6,5 @@ I'm currently working on a text tool app, but it's not already published
 
 Under this description you can find some of my old (failed 🥲) projects, I decided to make them public just to share what I did.
 You can also find some other works I made, I especially suggests [this one](https://github.com/GiacomoPignoni/flutter_ui_widgets)
+
+If you want to see my update on what I working on (and not only) you can reach me [here](https://twitter.com/Pigna__)
